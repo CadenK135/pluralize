@@ -3,7 +3,7 @@
 function pluralize(noun, count) {
   // TODO: Implement this function.
   const result = undefined;
-  if count == 1 {
+  if (count == 1) {
     return count + " " + noun
   }
   else {
